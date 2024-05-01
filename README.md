@@ -3,7 +3,8 @@
 ## Overview
 
 Enable viewers to interact with your Twitch stream in a fun and engaging way by using channel points redemptions to trigger realistic AI-generated text-to-speech powered by ElevenLabs.
-Features
+
+## Features
 
 - Integration with Twitch channel point redemptions
 - Seamless connection to the ElevenLabs API
